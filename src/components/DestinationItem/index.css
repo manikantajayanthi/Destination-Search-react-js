@@ -1,0 +1,22 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.destination-img {
+  width: 200px;
+}
+.destination-name-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  text-align: left;
+  align-content: flex-start;
+}
+.destination-name {
+  color: #000000;
+  font-family: 'Open Sans';
+  font-size: 10px;
+  font-weight: bold;
+}
